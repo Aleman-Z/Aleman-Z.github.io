@@ -1,6 +1,6 @@
-# Charlotte Frenkel's personal webpage repository
+# Adrian Aleman's personal webpage repository
 
-The template and code resources of this website are entirely based on those developed by Przemysław Pawełczak, which are available [here](https://github.com/przemyslaw-pawelczak/przemyslaw-pawelczak.github.io).
+The template and code resources of this website are entirely based on those developed by Przemysław Pawełczak and used by Charlotte Frenkel, which are available [here](https://github.com/przemyslaw-pawelczak/przemyslaw-pawelczak.github.io). 
 
 ### Copyright
 
